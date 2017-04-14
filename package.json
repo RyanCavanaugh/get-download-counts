@@ -1,0 +1,24 @@
+{
+  "name": "get-download-counts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "types-registry": "^0.1.239"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanCavanaugh/get-download-counts.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyanCavanaugh/get-download-counts/issues"
+  },
+  "homepage": "https://github.com/RyanCavanaugh/get-download-counts#readme"
+}
